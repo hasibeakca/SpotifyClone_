@@ -1,0 +1,29 @@
+body{
+    width: 98vw;
+}
+.renk{
+    color: white;
+}
+
+
+li a {
+color: white !important;
+}
+
+.renkk{
+    background-color: black; color: white !important;
+}
+
+.yazi{
+    border-radius: 20px; background-color: blue; color: white;
+}
+.white{ color:white}
+
+.margin{
+margin-top: 30px;
+}
+.genel{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+}
